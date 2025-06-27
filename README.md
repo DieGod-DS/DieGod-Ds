@@ -19,5 +19,7 @@ Me chamo Diego Armando, tenho 24 anos e sou apaixonado por resolver problemas de
 
 ---
 **Contatos**
+
 Email - diegosnow6.9@gmail.com
+
 LinkedIn - diegoarmandods
