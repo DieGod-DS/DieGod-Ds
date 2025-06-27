@@ -7,13 +7,8 @@ Me chamo Diego Armando, tenho 24 anos e sou apaixonado por resolver problemas de
 ---
 
 **Linguagens e Tecnologias**
-- Python
-  - Pandas
-  - Numpy
-  - Matplotlib
-  - Scikit-Learn
-  - Tensorflow
-- SQL
+- Python (Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow)
+- SQL (PostgreSQL, DBeaver)
 - Excel
 - Power BI
 - AWS
@@ -22,3 +17,7 @@ Me chamo Diego Armando, tenho 24 anos e sou apaixonado por resolver problemas de
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DieGod-ds&show_icons=true&theme=graywhite&locale=pt-br)
 
+---
+**Contatos**
+Email - diegosnow6.9@gmail.com
+LinkedIn - diegoarmandods
