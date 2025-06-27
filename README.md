@@ -25,5 +25,5 @@ Me chamo Diego Armando, tenho 24 anos e sou apaixonado por resolver problemas de
 
 **Estatísticas**
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DieGod-DS&show_icons=true&theme=graywhite&locale=pt-br)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DieGod-ds&show_icons=true&theme=graywhite&locale=pt-br)
 
