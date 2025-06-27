@@ -17,10 +17,7 @@ Me chamo Diego Armando, tenho 24 anos e sou apaixonado por resolver problemas de
 - Excel
 - Power BI
 - AWS
-
-<br/>
-<br/>
-
+---
 **Estatísticas**
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DieGod-ds&show_icons=true&theme=graywhite&locale=pt-br)
